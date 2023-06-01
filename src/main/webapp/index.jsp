@@ -19,7 +19,7 @@
 <br />
 </label>
 <label>
-<input type="radio" name="r2" value="sub" />subtraction 
+<input type="radio" name="r2" value="sub" />subtract 
 <br />
 </label>
 <label>
